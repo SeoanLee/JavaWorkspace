@@ -214,19 +214,6 @@ public class Day2_2 {
 	}
 		
 	
-	
-	
-	// 마름모(다이아몬드)
-	public void test11() {
-		
-
-		
-	}
-	
-	// 나비
-	
-	// 모래시계
-	
 }
 
 

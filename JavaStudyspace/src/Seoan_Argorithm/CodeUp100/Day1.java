@@ -68,7 +68,7 @@ public class Day1 {
 	
 	public static void main(String[] args) {
 		
-		new Day1().test1010();
+		// 실행용
 
 	}
 
